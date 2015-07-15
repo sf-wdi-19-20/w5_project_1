@@ -55,7 +55,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **SMS** Send SMSs with the Twillio API
 * **Payments** Add payments with stripe.com
 * **External API** Use an external API to integrate rich data into your app.
-* **Web-Scraping** Write a web-scraper to collect data from a website that doesn't have an API. Example technologies include <a href="http://casperjs.org" target="_blank">Casper</a> or <a href="https://www.kimonolabs.com" target="_blank">Kimono.
+* **Web-Scraping** Write a web-scraper to collect data from a website that doesn't have an API. Example technologies include <a href="http://casperjs.org" target="_blank">Casper</a> or <a href="https://www.kimonolabs.com" target="_blank">Kimono</a>.
 * **Web Sockets** Create an open, real-time connection between your server and client (e.g. live chatting). Check out <a href="http://socket.io/" target="_blank">Socket.io</a> if you're interested in web sockets.
 * **Whatever else you can think of!**
 
