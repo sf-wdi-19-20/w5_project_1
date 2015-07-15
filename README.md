@@ -21,10 +21,10 @@ It's time to put everything that you've learned in the past month together! For 
 
 The objective of this project is to:
 
-* Apply the skills you\'ve learned by building a web application from the ground up.
+* Apply the skills you've learned by building a web application from the ground up.
 * Demonstrate mastery of topics covered during this course so far.
 
-You will will each need to turn in an individual project, but you will move quicker and learn more if you take time to pair program with other students.
+You will each need to turn in an individual project, but you will move quicker and learn more if you take time to pair program with other students.
 
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
