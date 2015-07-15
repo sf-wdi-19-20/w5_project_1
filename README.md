@@ -12,6 +12,7 @@ daily requirements (thursday homework assignment)
 
 example readme or readme tips
 
+finish formatting timeline
 
 
 ## DESCRIPTION
@@ -55,11 +56,44 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
+Thursday:
+
+	- Wireframes
+	- Choose an API
+	- App purpose
+
+Weekend:
+ 
+	- Use your API
+	- Set up UI with Bootstrap
+	- Attempt templating?
+
+Monday
+
+	- Deploy to Heroku
+	
+Tuesday
+
+	- Server routes for data
+	- Seed data on server
+	- AJAX calls to server
+	
+Wednesday
+
+	- Push to Heroku again
+	- Start mongoose models
+	
+Thursday 
+
+Final deploy to Heroku
+
+
 * **Friday, July 17th** - Submit your project proposal to an instructor and make a Kaban board for it using Trello [board](https://trello.com/b/dl7VicOR/sfwdi18-project1). Be ready to talk about the scope of your project. Before beginning work on your project, your project idea and the scope of your project must be checked-off by an instructor. [More on that here](@TODO). You will need the following for an instructor check-off:
     * Wireframes
     * User stories
     * Models and DB design
-* **Monday, July 20th** - Deploy your code to Heroku by the end of the day. We will have a workshop Monday afternoon for additional support. It is not important how much coding you have done at this point; deploy whatever you have.  This will make your life easier.
+* **Monday, July 20th** - Deploy your code to Heroku by the end of the day. It is not important how much coding you have done at this point; deploy whatever you have.  This will make your life easier. We will have a workshop on Monday afternoon on deploying to Heroku with Mongo. 
+* **
 * **Friday, July 24th, 9:17am** - Project due and presentations!
 
 ## PLANNING
