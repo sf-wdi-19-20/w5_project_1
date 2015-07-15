@@ -68,9 +68,9 @@ Thursday:
 Weekend:
 
 	- Build initial index template of core resource (e.g. "Post", or "Article", or "Todo")
-	- Send array of static data to it from scripts.js
-	- Move array of static data to server
-	- Move array of static data to DB (seed local DB)
+	- Send array of static data to it from scripts.js (add jQuery)
+	- Move array of static data to server (build server with 1 route)
+	- Move array of static data to DB (add mongoose and seed local DB)
 
 Monday
 
