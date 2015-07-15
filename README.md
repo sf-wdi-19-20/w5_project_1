@@ -35,11 +35,11 @@ Make sure to do all of the following with your app.
 * **AJAX** Leverage the backend API to fetch JSON asynchronously to the client.
 * **jQuery** Use jQuery to manipulate the DOM and/or data on the client-side.
 * **Templating** Render the JSON data on the frontend using underscore templates.
-* **Testing** Write API tests for your app\'s routes
+* **Testing** Write API tests for your app's routes
 * **Authentication** Enable users to signup, login, and logout.
 * **Data Validation** Validate data by handling incorrect inputs during sign up, such as unique email addresses, and minimum password lengths.
 * **Model Relationship** Create a `has_many` relationship between the User and another model using either embedded or referenced data.
-* **Visual Design** Use Twitter Bootstrap to kick-start your front-end.
+* **Visual Design** Use Bootstrap to kick-start your front-end.
 * **Heroku** Deploy your code to Heroku.
 	* Ensure no app secrets are exposed.  __Do not commit secret keys to Github!__
 
@@ -48,12 +48,13 @@ Make sure to do all of the following with your app.
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
 
 * **External API** Use an external API to integrate rich data into your app.
-* **Authorization** Disallow users from CRUDing content in other users\' profiles. This means a user should not be able to delete a post (or other resource) if it is not theirs.
+* **Authorization** Disallow users from CRUDing content in other user's profiles. This means a user should not be able to delete a post (or other resource) if it is not theirs.
 * **Many-to-Many** Can you setup a many-to-many relationship like "tags" on posts.
-* **Web Scraping** Write a webscraper to collect data from a website that doesn\'t have an API. Examples technologies include [Casper](http://casperjs.org/) or [Kimono](https://www.kimonolabs.com/).
+* **Web Scraping** Write a webscraper to collect data from a website that doesn't have an API. Examples technologies include [Casper](http://casperjs.org/) or [Kimono](https://www.kimonolabs.com/).
 * **Payments** Add payments with stripe.com
 * **Email** Send emails with express-mailer
 * **SMS** Send SMSs with the Twillio API
+* **Web Sockets** Create an open, real-time connection between your server and client (e.g. live chatting). Check out <a href="http://socket.io/" target="_blank">Socket.io</a> if you're interested in web sockets.
 * **Whatever else you can think of!**
 
 ## TIMELINE
