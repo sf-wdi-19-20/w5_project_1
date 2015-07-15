@@ -2,16 +2,11 @@
 
 ## @TODO
 
-Possible additional requirements:
-* **Object Oriented Programming** Use a schema with functions attached.
+Combine timelines
 
-Contact WDI18 for trello setup tips
+assign groups (first letter)
 
-Daily requirements (Thursday homework assignment)
 
-Example README or README tips
-
-Finish formatting timeline
 
 
 ## DESCRIPTION
@@ -35,7 +30,7 @@ You will each need to turn in an individual project, but you will move faster an
 * **AJAX** Leverage your server-side API to fetch JSON asynchronously to the client-side.
 * **jQuery** Use jQuery to manipulate the DOM and/or data on the client-side.
 * **Templating** Render the JSON data on the client-side using underscore templates.
-* **Testing** Write request tests for your app's API routes.
+* **Testing** Write request tests for 50% of your app's API routes.
 * **Authentication** Enable users to sign up, log in, and log out.
 * **Data Validation** Validate data by handling incorrect inputs during sign up, such as unique email addresses and minimum password lengths.
 * **Model Relationship** Create a `has_many` relationship between the User and another model using either embedded or referenced data.
@@ -48,7 +43,7 @@ You will each need to turn in an individual project, but you will move faster an
 
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
 
-* **Authorization** Disallow users from CRUDing content in other user's profiles. This means a user should not be able to delete a post (or other resource) if it is not theirs.
+* **Authorization** Disallow users from deleting content in other user's profiles. This means a user should not be able to delete a post (or other resource) if it is not theirs.
 * **Many-to-Many** Set up a many-to-many relationship like "tags" on posts.
 * **Search** Build a form that allows users to search for data based on keywords.
 * **Email** Send emails with express-mailer
