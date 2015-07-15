@@ -57,16 +57,16 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Web Sockets** Create an open, real-time connection between your server and client (e.g. live chatting). Check out <a href="http://socket.io/" target="_blank">Socket.io</a> if you're interested in web sockets.
 * **Whatever else you can think of!**
 
-## TIMELINE
+## TIMELINE (OUTSIDE-IN)
 
-Thursday:
+Thursday
 
 	- Brainstorm Purpse or Idea
 	- Write User Narratives
 	- Draw Wireframes
 	- Draw Schema Drawing
 
-Weekend:
+Weekend
 
 	- Build initial index template of core resource (e.g. "Post", or "Article", or "Todo")
 	- Send array of static data to it from scripts.js (add jQuery)
@@ -96,6 +96,8 @@ Thursday
 
 	- Improve and customize styling
 	- Final Push to Heroku
+
+## TIMELINE
 
 * **Thursday, July 16th** - Submit your project proposal to an instructor and make a Kaban board for it using Trello [board](https://trello.com/b/dl7VicOR/sfwdi18-project1). Be ready to talk about the scope of your project. Before beginning work on your project, your project idea and the scope of your project must be checked-off by an instructor. [More on that here](@TODO). You will need the following for an instructor check-off:
     * Wireframes
