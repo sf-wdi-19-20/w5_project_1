@@ -30,7 +30,7 @@ You will each need to turn in an individual project, but you will move faster an
 **Your app should have all of the following:**
 
 * **Express API** Implement a server-side JSON API with Express.
-* **RESTful Routes** Design the routes in a <a href="http://restfulrouting.com/mappings/resources" target="_blank">RESTful manner.
+* **RESTful Routes** Design the routes in a <a href="http://restfulrouting.com/mappings/resources" target="_blank">RESTful</a> manner.
 * **MongoDB** Persist at least two models in a Mongo Database.
 * **AJAX** Leverage your server-side API to fetch JSON asynchronously to the client-side.
 * **jQuery** Use jQuery to manipulate the DOM and/or data on the client-side.
