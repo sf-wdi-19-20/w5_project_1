@@ -1,59 +1,61 @@
-#![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WDI 19/20 SF - Project One
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SF WDI 19/20 - Project One
 
-##@TODO
+## @TODO
 
-Possible additional requirements
-* **Testing** Write route tests for your app.
+Possible additional requirements:
 * **Object Oriented Programming** Use a schema with functions attached.
 
 Contact WDI18 for trello setup tips
 
-daily requirements (thursday homework assignment)
+Daily requirements (Thursday homework assignment)
 
-example readme or readme tips
+Example README or README tips
 
-finish formatting timeline
+Finish formatting timeline
 
 
 ## DESCRIPTION
 
 It's time to put everything that you've learned in the past month together! For the first project you will use your knowledge of front and back-end web development to produce an awesome web application that can be used by friends, family or any of the other billions of people who use the Internet. The type of web application you create is your choice.
 
-The objective of this project is to:
+**The objective of this project is to:**
 
 * Apply the skills you've learned by building a web application from the ground up.
 * Demonstrate mastery of topics covered during this course so far.
 
-You will each need to turn in an individual project, but you will move quicker and learn more if you take time to pair program with other students.
+You will each need to turn in an individual project, but you will move faster and learn more if you take time to pair program with other students.
 
 ## CORE REQUIREMENTS
-Make sure to do all of the following with your app.
 
-* **Express API** Implement a backend JSON API with Express.
-* **RESTful Routes** Design the routes in a [RESTful](http://restfulrouting.com/mappings/resources) manner.
+**Your app should have all of the following:**
+
+* **Express API** Implement a server-side JSON API with Express.
+* **RESTful Routes** Design the routes in a <a href="http://restfulrouting.com/mappings/resources" target="_blank">RESTful manner.
 * **MongoDB** Persist at least two models in a Mongo Database.
-* **AJAX** Leverage the backend API to fetch JSON asynchronously to the client.
+* **AJAX** Leverage your server-side API to fetch JSON asynchronously to the client-side.
 * **jQuery** Use jQuery to manipulate the DOM and/or data on the client-side.
-* **Templating** Render the JSON data on the frontend using underscore templates.
-* **Testing** Write API tests for your app's routes
-* **Authentication** Enable users to signup, login, and logout.
-* **Data Validation** Validate data by handling incorrect inputs during sign up, such as unique email addresses, and minimum password lengths.
+* **Templating** Render the JSON data on the client-side using underscore templates.
+* **Testing** Write request tests for your app's API routes.
+* **Authentication** Enable users to sign up, log in, and log out.
+* **Data Validation** Validate data by handling incorrect inputs during sign up, such as unique email addresses and minimum password lengths.
 * **Model Relationship** Create a `has_many` relationship between the User and another model using either embedded or referenced data.
-* **Visual Design** Use Bootstrap to kick-start your front-end.
-* **Heroku** Deploy your code to Heroku.
-	* Ensure no app secrets are exposed.  __Do not commit secret keys to Github!__
+* **Visual Design** Use Bootstrap to kick-start your UI and UX.
+* **Heroku** Deploy your app to Heroku.
+	* Ensure no app secrets are exposed. __Do not commit secret keys to Github!__
 
 
 ## BONUS CHALLENGES
+
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
 
-* **External API** Use an external API to integrate rich data into your app.
 * **Authorization** Disallow users from CRUDing content in other user's profiles. This means a user should not be able to delete a post (or other resource) if it is not theirs.
-* **Many-to-Many** Can you setup a many-to-many relationship like "tags" on posts.
-* **Web Scraping** Write a webscraper to collect data from a website that doesn't have an API. Examples technologies include [Casper](http://casperjs.org/) or [Kimono](https://www.kimonolabs.com/).
-* **Payments** Add payments with stripe.com
+* **Many-to-Many** Set up a many-to-many relationship like "tags" on posts.
+* **Search** Build a form that allows users to search for data based on keywords.
 * **Email** Send emails with express-mailer
 * **SMS** Send SMSs with the Twillio API
+* **Payments** Add payments with stripe.com
+* **External API** Use an external API to integrate rich data into your app.
+* **Web-Scraping** Write a web-scraper to collect data from a website that doesn't have an API. Example technologies include <a href="http://casperjs.org" target="_blank">Casper</a> or <a href="https://www.kimonolabs.com" target="_blank">Kimono.
 * **Web Sockets** Create an open, real-time connection between your server and client (e.g. live chatting). Check out <a href="http://socket.io/" target="_blank">Socket.io</a> if you're interested in web sockets.
 * **Whatever else you can think of!**
 
