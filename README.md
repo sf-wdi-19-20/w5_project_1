@@ -80,6 +80,7 @@ Monday
 	- Push to Heroku
 
 Tuesday
+
 	- Build signup template
 	- Add User model and Signup route to server
 	- Build login template
@@ -87,10 +88,12 @@ Tuesday
 	- Push to Heroku
 
 Wednesday
+
 	- Add another resource or a "reach" feature
 	- Push to Heroku
 
 Thursday
+
 	- Improve and customize styling
 	- Final Push to Heroku
 
