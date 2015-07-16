@@ -48,8 +48,6 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Web Sockets** Create an open, real-time connection between your server and client (e.g. live chatting). Check out <a href="http://socket.io/" target="_blank">Socket.io</a> if you're interested in web sockets.
 * **Whatever else you can think of!**
 
-## TIMELINE (OUTSIDE-IN)
-
 
 ## TIMELINE
 
