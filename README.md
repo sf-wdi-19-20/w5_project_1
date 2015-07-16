@@ -53,7 +53,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
-* **Friday, July 17th by 9:00am** - REQUIRED:  Submit your project proposal to an instructor and make a Kaban board for it using Trello. Be ready to talk about the scope of your project. Before beginning work on your project, your project idea and the scope of your project must be checked-off by an instructor. You will need the following for an instructor check-off:
+* **Friday, July 17th by 9:00am** - **REQUIRED**:  Submit your project proposal to an instructor and make a Kaban board for it using Trello. Be ready to talk about the scope of your project. Before beginning work on your project, your project idea and the scope of your project must be checked-off by an instructor. You will need the following for an instructor check-off:
     * Wireframes (simple/hand drawn are great)
     * User narratives / user stories ("As a user submitting a post, I want to see the new post added to the page.")
     * Models and DB design (ERD)
@@ -67,15 +67,15 @@ If you want to push yourself and learn something new, optionally consider doing 
   - Move array of static data to server (build server with 1 route to get all data)
   - Move array of static data to DB (add mongoose and seed local DB)
 
-* **Monday, July 20th** - REQUIRED:  Deploy your code to Heroku by the end of the day. We know the project won't be finished; deploy whatever you have.  This will make your life easier. We will have a workshop on Monday afternoon on deploying to Heroku with Mongo. 
+* **Monday, July 20th** - **REQUIRED**:  Deploy your code to Heroku by the end of the day. We know the project won't be finished; deploy whatever you have.  This will make your life easier. We will have a workshop on Monday afternoon on deploying to Heroku with Mongo. 
 
-  Suggestion:
+  Also, Suggestion:
   - Build any forms or form templates
   - Add POST route(s)
   - Add route tests
 
  
-* **Tuesday, July 21st** Suggestion:
+* **Tuesday, July 21st** - Suggestion:
 
   - Build signup ui/template
   - Add User model and Signup route to server
@@ -83,12 +83,12 @@ If you want to push yourself and learn something new, optionally consider doing 
   - Add login route to server
   - Push to Heroku
 
-* **Wednesday, July 22nd** Suggestion:
+* **Wednesday, July 22nd** - Suggestion:
 
   - Add another resource or a "reach" feature
   - Push to Heroku
 
-* **Thursday, July 23rd** Suggestion:
+* **Thursday, July 23rd** - Suggestion:
   - Improve and customize styling
   - Final Push to Heroku
 
@@ -147,58 +147,58 @@ We will schedule 1:1s throughout the week. We will also do mini lessons on certa
 
 ##GROUPS
 
-ADAM 
-Brennan Gamwell
-Alison Milligan
-Arif Furquon
-Rakesh Shrestha
-Henry Freel
-Matthew Gomez
-Michelle Maltbia
-Rocky Chau
-Sabastian Belser
-Sahash Sainju
+ADAM      
+Brennan Gamwell      
+Alison Milligan      
+Arif Furquon      
+Rakesh Shrestha      
+Henry Freel      
+Matthew Gomez      
+Michelle Maltbia      
+Rocky Chau       
+Sabastian Belser      
+Sahash Sainju      
 
 
 
-BRIANNA
-Amanda George
-Timothy Festa
-Ian Civgin
-Bedford Williamson
-Manu Lohiya
-Monika Chumber
-Paul Kim
-Rob Cardenas
-Rolando Rodriguez
-Sean Hill
+BRIANNA      
+Amanda George      
+Timothy Festa      
+Ian Civgin      
+Bedford Williamson      
+Manu Lohiya      
+Monika Chumber      
+Paul Kim      
+Rob Cardenas      
+Rolando Rodriguez      
+Sean Hill      
 
 
 
-CAMERON 
-Jason Tasharski
-Katie Gaudin
-Tara Kaur
-Zoe Foss
-Alex Chan
-Jon Harlan
-Josh Baker
-Julfi Chumber
-Kara Nicholas
-Esben Baden Smith
+CAMERON       
+Jason Tasharski      
+Katie Gaudin      
+Tara Kaur      
+Zoe Foss      
+Alex Chan      
+Jon Harlan      
+Josh Baker      
+Julfi Chumber      
+Kara Nicholas      
+Esben Baden Smith      
 
 
 
-DEVIN 
-Annie Peng
-Antonio de Leon
-Henry Yi
-Diane Lo
-Erin Mahoney
-Aubrey Worley
-Daniel Kahn
-Davina Taylor
-Greg Onza
-Aileen Santos
+DEVIN       
+Annie Peng      
+Antonio de Leon      
+Henry Yi      
+Diane Lo      
+Erin Mahoney      
+Aubrey Worley      
+Daniel Kahn      
+Davina Taylor      
+Greg Onza      
+Aileen Santos       
 
 ###HAPPY CODING :)
