@@ -136,7 +136,7 @@ We will schedule 1:1s throughout the week. We will also do mini lessons on certa
 * A link to your website **hosted on Heroku**
 * A link to your **source code on GitHub**
 * A `README.md` file that serves as your **project documentation**
-* A **presentation** illustrating:
+* A **presentation** of 7 minutes or less illustrating:
 	* What is your project and what does it do?
 	* What was your motivation to build it?
 	* What are you proud of?
