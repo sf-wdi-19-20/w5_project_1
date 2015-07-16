@@ -51,9 +51,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
-* **Friday, July 17th by 9:00am** - **REQUIRED**:  Submit your project proposal to an instructor and make a Kaban board for it using Trello. Be ready to talk about the scope of your project. Before beginning work on your project, your project idea and the scope of your project must be checked-off by an instructor. You will need the following for an instructor check-off:
+* **Friday, July 17th by 9:00am** - **REQUIRED**:  Submit your project proposal to an instructor and make a Kaban board for it using Trello. Be ready to talk about the scope of your project -- you should only plan to build your [MVP (minimum viable product)](https://en.wikipedia.org/wiki/Minimum_viable_product). Before beginning work on your project, your project idea and the scope of your project must be checked-off by an instructor. You will need the following for an instructor check-off:
     * Wireframes (simple/hand drawn are great)
-    * User narratives / user stories ("As a user submitting a post, I want to see the new post added to the page.")
+    * User narratives / user stories ("Users can create a meal with various foods." or "As a SpaceBook user looking for new friends, I want to be able to update my location to my current planet.")
     * Models and DB design (ERD)
     
 
