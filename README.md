@@ -1,11 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SF WDI 19/20 - Project One
 
-## @TODO
-
-Combine timelines
-
-assign groups (first letter)
-
 
 
 
@@ -56,51 +50,48 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE (OUTSIDE-IN)
 
-Thursday
-
-	- Brainstorm Purpse or Idea
-	- Write User Narratives
-	- Draw Wireframes
-	- Draw Schema Drawing
-
-Weekend
-
-	- Build initial index template of core resource (e.g. "Post", or "Article", or "Todo")
-	- Send array of static data to it from scripts.js (add jQuery)
-	- Move array of static data to server (build server with 1 route)
-	- Move array of static data to DB (add mongoose and seed local DB)
-
-Monday
-
-	- Deploy index template with api and db connection to Heroku
-	- Build form template and POST route
-	- Push to Heroku
-
-Tuesday
-
-	- Build signup template
-	- Add User model and Signup route to server
-	- Build login template
-	- Add login route to server
-	- Push to Heroku
-
-Wednesday
-
-	- Add another resource or a "reach" feature
-	- Push to Heroku
-
-Thursday
-
-	- Improve and customize styling
-	- Final Push to Heroku
 
 ## TIMELINE
 
-* **Thursday, July 16th** - Submit your project proposal to an instructor and make a Kaban board for it using Trello [board](https://trello.com/b/dl7VicOR/sfwdi18-project1). Be ready to talk about the scope of your project. Before beginning work on your project, your project idea and the scope of your project must be checked-off by an instructor. [More on that here](@TODO). You will need the following for an instructor check-off:
-    * Wireframes
-    * User stories
-    * Models and DB design
-* **Monday, July 20th** - Deploy your code to Heroku by the end of the day. It is not important how much coding you have done at this point; deploy whatever you have.  This will make your life easier. We will have a workshop on Monday afternoon on deploying to Heroku with Mongo.
+* **Friday, July 17th by 9:00am** - REQUIRED:  Submit your project proposal to an instructor and make a Kaban board for it using Trello. Be ready to talk about the scope of your project. Before beginning work on your project, your project idea and the scope of your project must be checked-off by an instructor. You will need the following for an instructor check-off:
+    * Wireframes (simple/hand drawn are great)
+    * User narratives / user stories ("As a user submitting a post, I want to see the new post added to the page.")
+    * Models and DB design (ERD)
+    
+
+* **Weekend** - Suggestion:
+  - Build initial index file 
+    - add bootstrap 
+    - make a template to display the core resource (e.g. "Post", or "Article", or "Todo")
+  - Use the template to show dummy data from an array in the client side javascript code (add jQuery)
+  - Move array of static data to server (build server with 1 route to get all data)
+  - Move array of static data to DB (add mongoose and seed local DB)
+
+* **Monday, July 20th** - REQUIRED:  Deploy your code to Heroku by the end of the day. We know the project won't be finished; deploy whatever you have.  This will make your life easier. We will have a workshop on Monday afternoon on deploying to Heroku with Mongo. 
+
+  Suggestion:
+  - Build any forms or form templates
+  - Add POST route(s)
+  - Add route tests
+
+ 
+* **Tuesday, July 21st** Suggestion:
+
+  - Build signup ui/template
+  - Add User model and Signup route to server
+  - Build login ui/template
+  - Add login route to server
+  - Push to Heroku
+
+* **Wednesday, July 22nd** Suggestion:
+
+  - Add another resource or a "reach" feature
+  - Push to Heroku
+
+* **Thursday, July 23rd** Suggestion:
+  - Improve and customize styling
+  - Final Push to Heroku
+
 * **Friday, July 24th, 9:17am** - Project due and presentations!
 
 ## PLANNING
@@ -115,7 +106,7 @@ Thursday
 *DO NOT start coding before each of the above is clearly outlined and approved by an instructor.*
 
 * **REMEMBER to build "outside-in"**
- starting with an index template with static data, then swap in dynamic data stored on the client, then swap in getting the data with a GET call to a URL route on your server for the data, then saving the data in your database.
+Start with the basics of your view: an index.html file with static data directly in the file. Then, create a template based on the structure in the html and use the template to display dynamic data stored on the client. Then, move the data to the server and get it with a GET call to a route on the server.  Then, move the data to your database. 
 
 ## WHAT WE ARE LOOKING FOR
 ####Code should be...
@@ -129,7 +120,7 @@ Thursday
 ####Workflow should be...
 
 * Strategic —
-*Were you mindful about balancing your own resourcefulness with seeking help when necessary?*
+*Were you mindful about balancing your own resourcefulness with seeking help when necessary?*   
 *Did you think through logical units and plan (e.g., in comments) before starting to code?*
 
 * Documented —
@@ -139,7 +130,7 @@ Thursday
 *Can you defend why you chose a certain technology or why you implemented your solution in a certain way as opposed to the other options?*
 
 ## ACCESS TO INSTRUCTORS
-We will a schedule for 1:1s throughout the week. We will also do mini lessons on certain topics if we notice that several people are running into the same issues.
+We will schedule 1:1s throughout the week. We will also do mini lessons on certain topics if we notice that several people are running into the same issues.
 
 ##FINAL DELIVERABLES
 
@@ -156,18 +147,58 @@ We will a schedule for 1:1s throughout the week. We will also do mini lessons on
 
 ##GROUPS
 
-ADAM:
-@TODO
+ADAM 
+Brennan Gamwell
+Alison Milligan
+Arif Furquon
+Rakesh Shrestha
+Henry Freel
+Matthew Gomez
+Michelle Maltbia
+Rocky Chau
+Sabastian Belser
+Sahash Sainju
 
 
-BRIANNA:
-@TODO
 
-CAMERON:
-@TODO
+BRIANNA
+Amanda George
+Timothy Festa
+Ian Civgin
+Bedford Williamson
+Manu Lohiya
+Monika Chumber
+Paul Kim
+Rob Cardenas
+Rolando Rodriguez
+Sean Hill
 
 
-DEVIN:
-@TODO
+
+CAMERON 
+Jason Tasharski
+Katie Gaudin
+Tara Kaur
+Zoe Foss
+Alex Chan
+Jon Harlan
+Josh Baker
+Julfi Chumber
+Kara Nicholas
+Esben Baden Smith
+
+
+
+DEVIN 
+Annie Peng
+Antonio de Leon
+Henry Yi
+Diane Lo
+Erin Mahoney
+Aubrey Worley
+Daniel Kahn
+Davina Taylor
+Greg Onza
+Aileen Santos
 
 ###HAPPY CODING :)
