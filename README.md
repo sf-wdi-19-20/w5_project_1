@@ -146,57 +146,109 @@ We will schedule 1:1s throughout the week. We will also do mini lessons on certa
 ##GROUPS
 
 ADAM
+
 Brennan Gamwell
+
 Alison Milligan
+
 Arif Furquon
+
 Rakesh Shrestha
+
 Henry Freel
+
 Matthew Gomez
+
 Michelle Maltbia
+
 Rocky Chau
+
 Sabastian Belser
+
 Sahash Sainju
 
 
 
+
+
+
+
 BRIANNA
+
 Amanda George
+
 Timothy Festa
+
 Ian Civgin
+
 Bedford Williamson
+
 Manu Lohiya
+
 Monika Chumber
+
 Paul Kim
+
 Rolando Rodriguez
+
 Sean Hill
+
 Katie Gaudin
 
 
 
+
+
+
+
 CAMERON
+
 Jason Tasharski
+
 Tara Kaur
+
 Zoe Foss
+
 Alex Chan
+
 Jon Harlan
+
 Josh Baker
+
 Julfi Chumber
+
 Kara Nicholas 
+
 Esben Baden Smith
+
 Rob Cardenas
 
 
 
+
+
+
+
 DEVIN
+
 Annie Peng
+
 Antonio de Leon
+
 Henry Yi
+
 Diane Lo
+
 Erin Mahoney
+
 Aubrey Worley
+
 Daniel Kahn
+
 Davina Taylor
+
 Greg Onza
+
 Aileen Santos
 
 ###HAPPY CODING :)
