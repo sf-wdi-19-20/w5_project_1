@@ -117,8 +117,7 @@ Start with the basics of your view: an index.html file with static data directly
 #### Workflow should be...
 
 * Strategic —
-*Were you mindful about balancing your own resourcefulness with seeking help when necessary?*
-*Did you think through logical units and plan (e.g., in comments) before starting to code?*
+*Were you mindful about balancing your own resourcefulness with seeking help when necessary? Did you think through logical units and plan (e.g., in comments) before starting to code?*
 
 * Documented —
 *Did you create a project README, illustrate wireframes, write user stories, draw an entity relationship diagram, etc?*
